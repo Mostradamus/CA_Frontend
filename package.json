@@ -1,0 +1,8 @@
+{
+  "name": "sf1",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "node dist/sf1/server/server.mjs"
+  },
+  "private": true
+}

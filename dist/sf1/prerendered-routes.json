@@ -1,0 +1,17 @@
+{
+  "routes": {
+    "/": {},
+    "/Dashboard": {},
+    "/Dashboard/Control": {},
+    "/Dashboard/Control/CompararFormatos": {},
+    "/Dashboard/Control/Revision": {},
+    "/Dashboard/Detalle": {},
+    "/Dashboard/Formatos": {},
+    "/Dashboard/Formatos/Lista": {},
+    "/Dashboard/Formatos/Registro": {},
+    "/Dashboard/Home": {},
+    "/Dashboard/Reportes": {},
+    "/Dashboard/Reportes/Areas": {},
+    "/Login": {}
+  }
+}
