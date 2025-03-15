@@ -17,7 +17,7 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js"
+      "chunk-TPWJZVMB.js"
     ],
     "redirectTo": "/Dashboard/Home",
     "route": "/Dashboard"
@@ -25,10 +25,10 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
-      "chunk-DA7LW6ZL.js",
+      "chunk-TPWJZVMB.js",
+      "chunk-GENCORAB.js",
       "chunk-IBCYM47V.js",
-      "chunk-SNGJMCFE.js",
+      "chunk-NS3RRJYJ.js",
       "chunk-IHG4VJW6.js"
     ],
     "route": "/Dashboard/Home"
@@ -36,7 +36,7 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
+      "chunk-TPWJZVMB.js",
       "chunk-TFJG7D7U.js",
       "chunk-IHG4VJW6.js"
     ],
@@ -45,13 +45,13 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
-      "chunk-XKGDM4UT.js",
-      "chunk-OOHYJIGL.js",
-      "chunk-TI5KDG2I.js",
-      "chunk-SNGJMCFE.js",
-      "chunk-PIVHWQS3.js",
-      "chunk-36QOPV6A.js",
+      "chunk-TPWJZVMB.js",
+      "chunk-6BKKTH2O.js",
+      "chunk-FHQZZSCN.js",
+      "chunk-TWFQIZNU.js",
+      "chunk-NS3RRJYJ.js",
+      "chunk-TU6XLHCU.js",
+      "chunk-SWDNTVYT.js",
       "chunk-IHG4VJW6.js"
     ],
     "route": "/Dashboard/Formatos/Lista"
@@ -59,18 +59,18 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
-      "chunk-G4LYSBYP.js",
-      "chunk-MIVVXBUJ.js",
-      "chunk-PIVHWQS3.js",
-      "chunk-36QOPV6A.js"
+      "chunk-TPWJZVMB.js",
+      "chunk-SRCVFICV.js",
+      "chunk-3FJMCMKX.js",
+      "chunk-TU6XLHCU.js",
+      "chunk-SWDNTVYT.js"
     ],
     "route": "/Dashboard/Formatos/Registro"
   },
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
+      "chunk-TPWJZVMB.js",
       "chunk-HN7BXGFE.js",
       "chunk-IHG4VJW6.js"
     ],
@@ -79,15 +79,15 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
-      "chunk-UFDK25LE.js",
+      "chunk-TPWJZVMB.js",
+      "chunk-BGCCTMKV.js",
       "chunk-IBCYM47V.js",
-      "chunk-OOHYJIGL.js",
-      "chunk-TI5KDG2I.js",
-      "chunk-SNGJMCFE.js",
-      "chunk-MIVVXBUJ.js",
-      "chunk-PIVHWQS3.js",
-      "chunk-36QOPV6A.js",
+      "chunk-FHQZZSCN.js",
+      "chunk-TWFQIZNU.js",
+      "chunk-NS3RRJYJ.js",
+      "chunk-3FJMCMKX.js",
+      "chunk-TU6XLHCU.js",
+      "chunk-SWDNTVYT.js",
       "chunk-IHG4VJW6.js"
     ],
     "route": "/Dashboard/Control/Revision"
@@ -95,12 +95,12 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
-      "chunk-LLVQE3FR.js",
+      "chunk-TPWJZVMB.js",
+      "chunk-YCNBBCQD.js",
       "chunk-WNOISBUY.js",
       "chunk-IBCYM47V.js",
-      "chunk-TI5KDG2I.js",
-      "chunk-36QOPV6A.js",
+      "chunk-TWFQIZNU.js",
+      "chunk-SWDNTVYT.js",
       "chunk-IHG4VJW6.js"
     ],
     "route": "/Dashboard/Control/CompararFormatos"
@@ -108,7 +108,7 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
+      "chunk-TPWJZVMB.js",
       "chunk-QO744DFC.js"
     ],
     "route": "/Dashboard/Detalle"
@@ -116,12 +116,12 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
-      "chunk-XJLVEP6Q.js",
+      "chunk-TPWJZVMB.js",
+      "chunk-LWKNIBFN.js",
       "chunk-WNOISBUY.js",
       "chunk-IBCYM47V.js",
-      "chunk-PIVHWQS3.js",
-      "chunk-36QOPV6A.js",
+      "chunk-TU6XLHCU.js",
+      "chunk-SWDNTVYT.js",
       "chunk-IHG4VJW6.js"
     ],
     "route": "/Dashboard/Reportes"
@@ -129,12 +129,12 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-D5SVHLS4.js",
-      "chunk-XJLVEP6Q.js",
+      "chunk-TPWJZVMB.js",
+      "chunk-LWKNIBFN.js",
       "chunk-WNOISBUY.js",
       "chunk-IBCYM47V.js",
-      "chunk-PIVHWQS3.js",
-      "chunk-36QOPV6A.js",
+      "chunk-TU6XLHCU.js",
+      "chunk-SWDNTVYT.js",
       "chunk-IHG4VJW6.js"
     ],
     "route": "/Dashboard/Reportes/Areas"
@@ -142,19 +142,19 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 27834, hash: '455748ad6bd40db1795e7d6f3996793a3b68d257e2f2811764ca26cda103de1b', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 1529, hash: '0e84b04ebf276fcf5857bfc3e029796a3dea2881df65b68d73ae79fad8916373', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'Dashboard/Home/index.html': {size: 46644, hash: '6488d60ec5e58dd2f8f9825acb552e0a6717e533730a6875e38c2d38b09b953e', text: () => import('./assets-chunks/Dashboard_Home_index_html.mjs').then(m => m.default)},
-    'Dashboard/Formatos/Registro/index.html': {size: 46644, hash: '9352ca927ac34f09965b029697f408ce677f1d59c73013da4430babc822f4949', text: () => import('./assets-chunks/Dashboard_Formatos_Registro_index_html.mjs').then(m => m.default)},
-    'Login/index.html': {size: 105569, hash: 'ab512318c676c0904232a70835d1efdf6f36aa478948b14f6da0d8d1e3b386ab', text: () => import('./assets-chunks/Login_index_html.mjs').then(m => m.default)},
-    'Dashboard/Formatos/index.html': {size: 46540, hash: '7bb382d2c55acb610166ec36d8b6b026403b2f9a1005e202a948a38afa63461e', text: () => import('./assets-chunks/Dashboard_Formatos_index_html.mjs').then(m => m.default)},
-    'Dashboard/Control/index.html': {size: 46540, hash: 'ee1d1950864484f9bae9ccf3b0115fce81afe07c78fac9e3f91af85667f6f347', text: () => import('./assets-chunks/Dashboard_Control_index_html.mjs').then(m => m.default)},
-    'Dashboard/Control/Revision/index.html': {size: 46904, hash: '1dbadc1b6c6c0dc17bac805f90f85ae2867125e4e60580817a8c18579f1e7def', text: () => import('./assets-chunks/Dashboard_Control_Revision_index_html.mjs').then(m => m.default)},
-    'Dashboard/Formatos/Lista/index.html': {size: 46800, hash: 'aa8794a28f7b4b9afa003594bc04f513d5468174a78fd73ba830590db7394b8b', text: () => import('./assets-chunks/Dashboard_Formatos_Lista_index_html.mjs').then(m => m.default)},
-    'Dashboard/Control/CompararFormatos/index.html': {size: 46748, hash: '58270b72352b794bc572074e6908065a49d0a8482358e5f4b8f6cfd1938ff6f1', text: () => import('./assets-chunks/Dashboard_Control_CompararFormatos_index_html.mjs').then(m => m.default)},
-    'Dashboard/Detalle/index.html': {size: 46488, hash: 'b494805b298ed2ee297f851475f269bed9776ab05834764bbbc3fb3f6d69f03f', text: () => import('./assets-chunks/Dashboard_Detalle_index_html.mjs').then(m => m.default)},
-    'Dashboard/Reportes/index.html': {size: 46748, hash: '3ec3d950f5af1795f075cf0b61b3e0b413ec7fb89aeaa6f448b7450071d2bdb1', text: () => import('./assets-chunks/Dashboard_Reportes_index_html.mjs').then(m => m.default)},
-    'Dashboard/Reportes/Areas/index.html': {size: 46748, hash: '3ec3d950f5af1795f075cf0b61b3e0b413ec7fb89aeaa6f448b7450071d2bdb1', text: () => import('./assets-chunks/Dashboard_Reportes_Areas_index_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 27834, hash: '9c55a530d50b42e24e93a974a948f0c217f4369825bb5c24b830ead7b3251abd', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 1529, hash: '42dcef82e432ba2e1a859f48680f0323a96d182a514280324dee6fcf32d9bbff', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'Dashboard/Home/index.html': {size: 46644, hash: '49d4811eed03a7c476a4ed9ed584c8cdc79be83310b096259e0564267f112096', text: () => import('./assets-chunks/Dashboard_Home_index_html.mjs').then(m => m.default)},
+    'Login/index.html': {size: 105569, hash: 'b934ca97742f57398df78578f46f24bc0946aae8c28d4a22c92e30c66a03d267', text: () => import('./assets-chunks/Login_index_html.mjs').then(m => m.default)},
+    'Dashboard/Formatos/Registro/index.html': {size: 46644, hash: '3f9657994e2a5cb18815a86f2f5191a297e2a419d84ce02cb07a1771a39567ff', text: () => import('./assets-chunks/Dashboard_Formatos_Registro_index_html.mjs').then(m => m.default)},
+    'Dashboard/Control/index.html': {size: 46540, hash: '4695d46954fb4e512999afae0ac1aa27e8e612bf7032cbe9d65042d44bfb4ebf', text: () => import('./assets-chunks/Dashboard_Control_index_html.mjs').then(m => m.default)},
+    'Dashboard/Control/Revision/index.html': {size: 46904, hash: '9cbf66303b1fd784f12cbe4472644a3bc8f3ff92ae87a52fe4748647e8fca772', text: () => import('./assets-chunks/Dashboard_Control_Revision_index_html.mjs').then(m => m.default)},
+    'Dashboard/Formatos/Lista/index.html': {size: 46800, hash: '98ea886a1266e9e8a860bbc9eb0ca2c837f84a9e66df1fc2c7fc3ddc35f8f0cd', text: () => import('./assets-chunks/Dashboard_Formatos_Lista_index_html.mjs').then(m => m.default)},
+    'Dashboard/Detalle/index.html': {size: 46488, hash: 'ed86d950c0d2852855e16ecb6849a7719a654307a28e0c1f1f63de616b6f54e8', text: () => import('./assets-chunks/Dashboard_Detalle_index_html.mjs').then(m => m.default)},
+    'Dashboard/Control/CompararFormatos/index.html': {size: 46748, hash: 'caa227b09d21c380c1e055c3d579e4f52a3106f955a2a5f23fa046e002dc9fb9', text: () => import('./assets-chunks/Dashboard_Control_CompararFormatos_index_html.mjs').then(m => m.default)},
+    'Dashboard/Formatos/index.html': {size: 46540, hash: 'fbcbba32cb8b0da5b6b33063a2334e079e203191ca2b0e3b42de9d8091f80151', text: () => import('./assets-chunks/Dashboard_Formatos_index_html.mjs').then(m => m.default)},
+    'Dashboard/Reportes/Areas/index.html': {size: 46748, hash: '65bbb2f2916edb15ec9c018e620c62b5860145c27cdc1cf587e78c3bcef89f8b', text: () => import('./assets-chunks/Dashboard_Reportes_Areas_index_html.mjs').then(m => m.default)},
+    'Dashboard/Reportes/index.html': {size: 46748, hash: '65bbb2f2916edb15ec9c018e620c62b5860145c27cdc1cf587e78c3bcef89f8b', text: () => import('./assets-chunks/Dashboard_Reportes_index_html.mjs').then(m => m.default)},
     'styles-MYSAVWYM.css': {size: 388013, hash: 'bniZyqGHm74', text: () => import('./assets-chunks/styles-MYSAVWYM_css.mjs').then(m => m.default)}
   },
 };
